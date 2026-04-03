@@ -3,4 +3,4 @@ test repo for jenkins-aws
 
 test
 
-test jenkins
+test jenkins aws server
