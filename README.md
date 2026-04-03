@@ -3,4 +3,4 @@ test repo for jenkins-aws
 
 test
 
-test jenkins aws server checking fffff wdqefdwe fwef 
+test jenkins aws server checking 
