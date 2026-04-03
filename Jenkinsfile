@@ -22,8 +22,9 @@ pipeline {
 
           stage('Test') {
               steps {
-                  echo 'Running tests...'
-                  sh 'echo "All tests passed!"'
+                  echo 'Running Python checks...'
+                    sh 'python3 -m py_compile test.py'
+                    sh 'python3 test.py'
               }
           }
 
